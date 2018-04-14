@@ -1,0 +1,35 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Amlan Roy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "cors-prefetch-middleware": "^1.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "formidable": "^1.2.0",
+    "helmet": "^3.12.0",
+    "html": "^1.0.0",
+    "images-upload-middleware": "^1.1.1",
+    "mongoose": "^5.0.9",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "q": "^1.5.1",
+    "rootpath": "^0.1.2",
+    "serve-favicon": "^2.4.5"
+  }
+}
